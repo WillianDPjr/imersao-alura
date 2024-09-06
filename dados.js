@@ -13,4 +13,10 @@ let dados =[ {
     titulo: "FIAP",
     descricao: "A FIAP é uma instituição de ensino superior com foco em tecnologia, oferecendo cursos de graduação e pós-graduação nas áreas de tecnologia da informação, engenharia e negócios. Com uma história de mais de 40 anos, a FIAP é reconhecida por sua excelência no ensino e por preparar profissionais altamente qualificados para o mercado de trabalho. Se você busca uma formação completa e sólida em tecnologia, a FIAP pode ser a escolha certa para você.",
     link: "https://www.fiap.com.br/"
-  }];
+  },
+    {
+  titulo: "Udemy",
+  descricao: "A Udemy é uma plataforma de cursos online com uma vasta gama de cursos, incluindo design gráfico, UX/UI e design de produto. Oferece cursos para todos os níveis, desde iniciantes até profissionais experientes.",
+  link: "https://www.udemy.com/"
+}
+           ];
